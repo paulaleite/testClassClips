@@ -1,0 +1,18 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appID: "ptl.com.testing.ClassClips",
+                "components": [
+                    { "/": "/test/*" },
+                ]
+            }
+        ]
+    },
+    "activitiycontinuation: {
+        "apps": [ "ptl.com.testing.ClassClips" ]
+    },
+    "webcredentials": {
+        "apps": [ "ptl.com.testing.ClassClips" ]
+    },
+}
