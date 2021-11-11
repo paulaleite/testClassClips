@@ -2,7 +2,7 @@
     "applinks": {
         "details": [
             {
-                "appID: "ptl.com.testing.ClassClips",
+                "appID: "X54K5PJVGU.ptl.com.testing.ClassClips",
                 "components": [
                     { "/": "/test/*" },
                 ]
@@ -10,9 +10,9 @@
         ]
     },
     "activitiycontinuation: {
-        "apps": [ "ptl.com.testing.ClassClips" ]
+        "apps": [ "X54K5PJVGU.ptl.com.testing.ClassClips" ]
     },
     "webcredentials": {
-        "apps": [ "ptl.com.testing.ClassClips" ]
+        "apps": [ "X54K5PJVGU.ptl.com.testing.ClassClips" ]
     },
 }
