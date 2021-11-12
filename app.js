@@ -6,7 +6,7 @@ const app = express();
 
 app.use('/', express.static(__dirname + '/public'));
 
-app.get("/api", (req, res) => {
+app.get("/", (req, res) => {
     res.send("Hello World");
 });
 
