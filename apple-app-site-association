@@ -1,7 +1,6 @@
+
 {
-    "applinks": {
-        "apps": [
-            "X54K5PJVGU.herokuapp.paulaleite.ClassClips.Clip"
-        ]
+    "appclips": {
+        "apps": [ "X54K5PJVGU.com.herokuapp.paulaleite.ClassClips.Clip" ]
     }
 }
